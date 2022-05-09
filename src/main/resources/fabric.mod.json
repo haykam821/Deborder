@@ -17,9 +17,6 @@
 	"icon": "assets/deborder/icon.png",
 
 	"environment": "client",
-	"custom": {
-		"modmenu:clientsideOnly": true
-	},
 
 	"mixins": [
 		"deborder.mixin.json"
